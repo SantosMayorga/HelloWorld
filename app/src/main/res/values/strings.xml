@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="hello">Hello</string>
+    <string name="presstochange">Press To Change</string>
+    <string name="image">Image</string>
+    <string name="view">View</string>
+    <string name="goodbye">GoodBye</string>
+
+</resources>
